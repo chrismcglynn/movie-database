@@ -1,5 +1,5 @@
 # movie-database
 
-<img src="movie-database.png" height: "50">
+<img src="movie-database1.png" height: "50">
 
-![](images/movie-database.png)
+![](images/movie-database1.png)
